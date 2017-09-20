@@ -1,17 +1,17 @@
 {
   "meta": {
     "username": "vinesrobotics",
-    "repositoryName": "hubpress.io",
+    "repositoryName": "roboticsblog",
     "branch": "gh-pages"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://vinesrobotics.github.io/hubpress.io",
-    "hubpress": "https://vinesrobotics.github.io/hubpress.io",
-    "theme": "//vinesrobotics.github.io/hubpress.io/themes/casper",
-    "images": "https://vinesrobotics.github.io/hubpress.io/images"
+    "site": "https://vinesrobotics.github.io/roboticsblog",
+    "hubpress": "https://vinesrobotics.github.io/roboticsblog",
+    "theme": "//vinesrobotics.github.io/roboticsblog/themes/casper",
+    "images": "https://vinesrobotics.github.io/roboticsblog/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
