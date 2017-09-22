@@ -1,5 +1,6 @@
-= Here is the link to the running blog site:
-https://vinesrobotics.github.io/roboticsblog/[Blog ggg ooo lll BBB]
+== Here is the link to the running blog site
+
+https://vinesrobotics.github.io/roboticsblog/[Blog]
 
 = HubPress
 :toc: macro
