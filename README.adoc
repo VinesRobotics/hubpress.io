@@ -1,3 +1,6 @@
+= Here is the link to the running blog site:
+https://vinesrobotics.github.io/roboticsblog/[Blog ggg ooo lll BBB]
+
 = HubPress
 :toc: macro
 :toclevels: 4
